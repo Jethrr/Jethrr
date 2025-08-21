@@ -9,11 +9,11 @@ Software Developer | Vibe cOder joke | Computer Science Student from Cebu, PH
 I am a Computer Science student at Cebu Institute of Technology University, passionate about building web applications, AI-powered tools, and full-stack software solutions. I enjoy vibe coding using AI tools like MCP's, Cursor, Claude Task Master ahahahah lmao!
 
 ### 📚 Current Stack:
-- **Frontend:** React, Next.js, TailwindCSS, Framer Motion, Zod, ShadCN
+- **Frontend:** React, Next.js, TailwindCSS, Framer Motion, Zod, ShadCN, Tanstack, Zustand
 - **Backend:** NestJs, Node.js, Express, Django, Flask
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase, Supabase
 - **Machine Learning:** TensorFlow, Keras, YOLO, Google Colab, OpenCV
-- 
+  
 
 ---
 

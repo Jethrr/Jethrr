@@ -28,7 +28,7 @@ Some of my Personal Projects
 ---
 
 ## 👤 Let's Connect!
-- 🌐 **Portfolio:** [jetheromictin.vercel.app](https://jether.vercel.app/)
+- 🌐 **Portfolio (v2):** [jether.vercel.app](https://jether.vercel.app/)
 - 👥 **LinkedIn:** [linkedin.com/in/jether-omictin](https://www.linkedin.com/in/jether-omictin/)
 - 💻 **GitHub:** [github.com/Jethrr](https://github.com/Jethrr)
 

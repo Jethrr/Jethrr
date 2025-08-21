@@ -18,6 +18,7 @@ I am a Computer Science student at Cebu Institute of Technology University, pass
 ---
 
 ## 💪 Projects
+Some of my Personal Projects
 - 🌊 [**Wildsquad**](https://github.com/Jethrr/Wildsquad) - AI-powered marine drone for detecting ocean pollutants. Top 10 DOST Agri Aqua Innovation Challange Finalist.
 - 📂 [**Nest**](https://github.com/drkcutie/Nest) - Full-stack bookmarking app built with Django & React.
 - 🌱 [**AgriVision**](https://github.com/ZenXen7/AgriVision) - CNN based Mobile app using deep learning for detecting lettuce diseases.

@@ -1,5 +1,5 @@
 # Hi! I'm Jether Omictin 🤓
-Software Developer | AI & ML Enthusiast | Computer Science Student from Cebu, PH
+Software Developer | Vibe cOder | Computer Science Student from Cebu, PH
 
 [**Portfolio**](https://jetheromictin.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/jether-omictin/) 
 

@@ -27,7 +27,7 @@ I am a Computer Science student at Cebu Institute of Technology University, pass
 ---
 
 ## 👤 Let's Connect!
-- 🌐 **Portfolio:** [jetheromictin.vercel.app](https://jetheromictin.vercel.app/)
+- 🌐 **Portfolio:** [jetheromictin.vercel.app](https://jether.vercel.app/)
 - 👥 **LinkedIn:** [linkedin.com/in/jether-omictin](https://www.linkedin.com/in/jether-omictin/)
 - 💻 **GitHub:** [github.com/Jethrr](https://github.com/Jethrr)
 

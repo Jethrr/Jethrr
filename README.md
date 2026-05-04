@@ -1,35 +1,38 @@
-# Hi! I'm Jether Omictin 🤓
-Software Developer | Vibe cOder joke | Computer Science Student from Cebu, PH
+# Hi! I'm Jether Omictin 🤓 
+### Software Developer | Cebu, Philippines 🇵🇭
 
-[**Portfolio**](https://jetheromictin.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/jether-omictin/) 
+[**Portfolio**](https://jether.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/jether-omictin/) • [**Email**](jethomictin@gmail.com) 
 
 ---
 
-## 🤖 Who Am I?
-I am a Computer Science student at Cebu Institute of Technology University, passionate about building web applications, AI-powered tools, and full-stack software solutions. I enjoy vibe coding using AI tools like MCP's, Cursor, Claude Task Master ahahahah lmao!
+## About
+Full Stack Developer specializing in end to end development. A recent Computer Science graduate at Cebu Institute of Technology University, passionate about building web applications, AI-powered tools, and full-stack software solutions. I enjoy coding cause its really fun haha.
 
-### 📚 Current Stack:
-- **Frontend:** React, Next.js, TailwindCSS, Framer Motion, Zod, ShadCN, Tanstack, Zustand
-- **Backend:** NestJs, Node.js, Express, Django, Flask
+### Current Stack:
+- **Frontend:** React, Next.js, Typescript, Javascript
+- **Backend:** NestJS, Node.js, Express, Django, FastAPI, Python, .NET
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase, Supabase
 - **Machine Learning:** TensorFlow, Keras, YOLO, Google Colab, OpenCV
-  
+- **DevOps and Cloud:** GCP, Docker, Github Actions
+
 
 ---
 
-## 💪 Projects
+## Relevant Projects
 Some of my Personal Projects
-- 🌊 [**Wildsquad**](https://github.com/Jethrr/Wildsquad) - AI-powered marine drone for detecting ocean pollutants. Top 10 DOST Agri Aqua Innovation Challange Finalist.
-- 📂 [**Nest**](https://github.com/drkcutie/Nest) - Full-stack bookmarking app built with Django & React.
-- 🌱 [**AgriVision**](https://github.com/ZenXen7/AgriVision) - CNN based Mobile app using deep learning for detecting lettuce diseases.
-- 🤖 [**Capstone-Generator**](https://github.com/Jethrr/Capstone-Generator) - AI tool for generating capstone project ideas.
-- 📝 [**TeknoLost**](https://github.com/Jethrr/TeknoLost) - Lost and Found app using Android Studio & Firebase.
-- More
+- [**DepedMPS**](https://depedmps.com/) - A web based monitoring platform for Department of Education Misamis Occidental.
+- [**UATT**](https://sepsis-transformer.vercel.app/) - My Undergrad thesis. AI transformer based system to detect sepsis for ICU patients.
+- [**Cropnoses**](https://youtu.be/f44aBTyZoLU) - AI-based full stack mobile application for hydroponics managaement with intellegent plant health analysis.
+- [**Capstone-Generator**](https://github.com/Jethrr/Capstone-Generator) - AI tool for generating capstone project ideas.
+- [**Tihik**](https://tihik.vercel.app/) - A fullstack budget tracker app using Next.js, Nest.js.
+- [**Kwentech**](https://tihik.vercel.app/) - A fullstack CRM web based app for real estate agents.
+  
+
 ---
 
 ## 👤 Let's Connect!
 - 🌐 **Portfolio (v2):** [jether.vercel.app](https://jether.vercel.app/)
 - 👥 **LinkedIn:** [linkedin.com/in/jether-omictin](https://www.linkedin.com/in/jether-omictin/)
-- 💻 **GitHub:** [github.com/Jethrr](https://github.com/Jethrr)
+- 💻 **Email:** jethomictin@gmail.com
 
 Feel free to reach out, collaborate, or just say hi! 🚀

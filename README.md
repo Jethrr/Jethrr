@@ -19,7 +19,7 @@ Full Stack Developer specializing in end to end development. A recent Computer S
 ---
 
 ## Relevant Projects
-Some of my Personal Projects
+List of Recent Projects
 - [**DepedMPS**](https://depedmps.com/) - A web based monitoring platform for Department of Education Misamis Occidental.
 - [**UATT**](https://sepsis-transformer.vercel.app/) - My Undergrad thesis. AI transformer based system to detect sepsis for ICU patients.
 - [**Cropnoses**](https://youtu.be/f44aBTyZoLU) - AI-based full stack mobile application for hydroponics managaement with intellegent plant health analysis.

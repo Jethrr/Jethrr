@@ -18,7 +18,7 @@ Full Stack Developer specializing in end to end development. A recent Computer S
 
 ---
 
-## Relevant Projects
+## Projects
 List of Recent Projects
 - [**DepedMPS**](https://depedmps.com/) - A web based monitoring platform for Department of Education Misamis Occidental.
 - [**UATT**](https://sepsis-transformer.vercel.app/) - My Undergrad thesis. AI transformer based system to detect sepsis for ICU patients.
@@ -26,7 +26,10 @@ List of Recent Projects
 - [**Capstone-Generator**](https://github.com/Jethrr/Capstone-Generator) - AI tool for generating capstone project ideas.
 - [**Tihik**](https://tihik.vercel.app/) - A fullstack budget tracker app using Next.js, Nest.js.
 - [**Kwentech**](https://tihik.vercel.app/) - A fullstack CRM web based app for real estate agents.
-  
+- [**MoodleQuest**](https://moodlequest.vercel.app/) - A gamified external web based platform for moodle LMS users.
+- [**Lersch Grossman Algorithm Visualizer**](https://moodlequest.vercel.app/) - A LGA visualizer developer for Mining Engineers developer using JAVA.
+- [**FULL KIT Starter**](https://moodlequest.vercel.app/) - A nextjs+nestjs+swagger+openapispec+tanstack+supabase boilerplate for fullstack development.
+
 
 ---
 

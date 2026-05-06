@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## About
 
 Hi! I am Jeth - a Full Stack Developer with a CS degree from Cebu Institute of Technology University. I build end-to-end apps - from polished responsive UIs to robust backends with a growing focus on building cool stuffs 😎.
@@ -38,9 +36,11 @@ This is my current taste in building apps, combining sets of tools and framework
 
 ---
 <div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jethrr)](https://git.io/streak-stats)
 
 </div>
+
 ## Connect
 
 Feel free to reach out, collaborate, or just say hi!

@@ -37,13 +37,14 @@ This is my current taste in building apps, combining sets of tools and framework
 - [**FULL KIT Starter**](https://github.com/Jethrr/nx-boilerplate-starter) — Next.js + NestJS + Swagger + TanStack + Supabase boilerplate `Boilerplate` `DX`
 
 ---
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jethrr)](https://git.io/streak-stats)
 
-
+</div>
 ## Connect
 
 Feel free to reach out, collaborate, or just say hi!
 
-- 🌐 [jether.vercel.app](https://jether.vercel.app/)
-- 💼 [linkedin.com/in/jether-omictin](https://www.linkedin.com/in/jether-omictin/)
+- 🌐 [jeth.me](https://jeth.me/)
+- 💼 [instagram](https://www.instagram.com/jethvrdio/)
 - 📧 [jethomictin@gmail.com](mailto:jethomictin@gmail.com)

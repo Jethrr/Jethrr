@@ -15,25 +15,24 @@
 Hi! I am Jeth - a Full Stack Developer with a CS degree from Cebu Institute of Technology University. I build end-to-end apps - from polished responsive UIs to robust backends with a growing focus on building cool stuffs 😎.
 
 This is my current taste in building apps, combining sets of tools and frameworks depending on what i like.
-- **Frontend** — React, Next.js, React Native, TypeScript
-- **Backend** — NestJS, Node.js, Express, Django, FastAPI, .NET
+- **Frontend** — React, Next.js, React Native, Svelte, TypeScript, Tanstack, Zod, Orval, ShadCn, TailwindCSS, GSAP, Motion 
+- **Backend** — NestJS, Node.js, Express, Django, FastAPI, .NET, PHP, Laravel
 - **Databases** — PostgreSQL, MySQL, MongoDB, Supabase, Firebase
-- **DevOps & Cloud** — Docker, GCP, GitHub Actions, Coolify, Dokploy
-- **ML & AI** — TensorFlow, Keras, YOLO, OpenCV
+- **DevOps & Cloud** — Docker, GCP, GitHub Actions, Coolify, Dokploy, Cloudflare, VPS
+- **ML & AI** — TensorFlow, Keras, YOLO, OpenCV, HuggingFace
 
 
 
 ## Projects
-
-- [**UATT**](https://sepsis-transformer.vercel.app/) — Undergrad thesis: AI transformer for early sepsis detection in ICU patients `ML` `Transformers`
 - [**DepedMPS**](https://depedmps.com/) — Web monitoring platform for Dept. of Education — Misamis Occidental `Full Stack` `Web`
+- [**Kwentech**](https://kwentech.jeth-tech.click/) — A rental management SaaS built for PH landlords that replaced manual paper ledgers with an automated billing engine, automated invoice generators and more. `Sass` `Fullstack Web`
+- [**UATT**](https://sepsis-transformer.vercel.app/) — Undergrad thesis: AI transformer for early sepsis detection in ICU patients `ML` `Transformers`
 - [**Cropnoses**](https://youtu.be/f44aBTyZoLU) — AI mobile app for hydroponics management with plant health analysis `Mobile` `CV` `AI`
 - [**Tihik**](https://tihik.vercel.app/) — Full-stack personal budget tracker with Next.js and NestJS `Full Stack` `Finance`
 - [**MoodleQuest**](https://moodlequest.vercel.app/) — Gamified external platform for Moodle LMS users `EdTech` `Gamification`
 - [**Capstone Generator**](https://github.com/Jethrr/Capstone-Generator) — AI tool that generates capstone project ideas for CS students `AI` `LLM`
-- [**Kwentech**](https://kwentech-ivory.vercel.app/) — Full-stack rental management platform for landlords `Full Stack` `SaaS`
 - [**FULL KIT Starter**](https://github.com/Jethrr/nx-boilerplate-starter) — Next.js + NestJS + Swagger + TanStack + Supabase boilerplate `Boilerplate` `DX`
-
+  [**See more**]([https://github.com/Jethrr/Capstone-Generator](https://www.jeth.me/projects))
 ---
 <div align="center">
   

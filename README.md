@@ -32,7 +32,7 @@ This is my current taste in building apps, combining sets of tools and framework
 - [**MoodleQuest**](https://moodlequest.vercel.app/) — Gamified external platform for Moodle LMS users `EdTech` `Gamification`
 - [**Capstone Generator**](https://github.com/Jethrr/Capstone-Generator) — AI tool that generates capstone project ideas for CS students `AI` `LLM`
 - [**FULL KIT Starter**](https://github.com/Jethrr/nx-boilerplate-starter) — Next.js + NestJS + Swagger + TanStack + Supabase boilerplate `Boilerplate` `DX`
-  [**See more**]([https://github.com/Jethrr/Capstone-Generator](https://www.jeth.me/projects))
+- [**See more**](https://www.jeth.me/projects)
 ---
 <div align="center">
   

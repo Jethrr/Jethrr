@@ -3,7 +3,7 @@
 <h1>Jether Omictin</h1>
 <p><strong>Full Stack Developer</strong> &nbsp;·&nbsp; Cebu, Philippines 🇵🇭</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jether.vercel.app-blue?style=flat-square&logo=vercel)](https://jether.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jether.vercel.app-blue?style=flat-square&logo=vercel)](https://jeth.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jether--omictin-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jether-omictin/)
 [![Email](https://img.shields.io/badge/Email-jethomictin@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:jethomictin@gmail.com)
 

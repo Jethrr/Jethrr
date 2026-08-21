@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Jether Omictin</h1>
-<p><strong>Full Stack Developer</strong> &nbsp;·&nbsp; Cebu, Philippines 🇵🇭</p>
+<p><strong>software engineer | builder </strong> &nbsp;·&nbsp; Philippines 🇵🇭</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jeth.me-blue?style=flat-square&logo=vercel)](https://jeth.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jether--omictin-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jether-omictin/)

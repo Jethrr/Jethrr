@@ -7,8 +7,4 @@
 
 </div>
 
-## Connect
 
-Feel free to reach out, collaborate, or just say hi!
-🌐 [jeth.me](https://jeth.me/)
-📧 [jethomictin@gmail.com](mailto:jethomictin@gmail.com)

@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
 
-<img width="498" height="276" alt="wawaaa" src="https://github.com/user-attachments/assets/245f9c5f-517d-4f41-ba2e-1c4423bcbe06" />
+<img width="220" height="154" alt="fight-club-laughing" src="https://github.com/user-attachments/assets/f6a216eb-bc83-44fc-85bd-9af77e872d6a" />
 
 </div>
 
